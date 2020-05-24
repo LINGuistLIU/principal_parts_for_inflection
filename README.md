@@ -1,0 +1,1 @@
+# principal parts for inflection
