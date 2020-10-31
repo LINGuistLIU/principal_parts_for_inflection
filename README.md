@@ -8,4 +8,3 @@ This is the script for our system created for the [SIGMORPHON 2020 shared task 0
 
 - runAll_large.sh trains and generates for high-resource languages.
 
-More details will be added.
